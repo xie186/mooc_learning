@@ -1,0 +1,21 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!*.pl
+!*.py
+!*.R
+!*.README
+!README
+!*.qsub
+!*.sub
+!*.sh
+!*.Rmd
+!*.md
+!*.docs
+!*.ipynb
+# ...even if they are in subdirectories
+!*/
+
+software/
