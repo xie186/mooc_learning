@@ -21,7 +21,9 @@ OpenChem: UCI Course Video Lectures on YouTube: https://github.com/xie186/mooc_l
 
 Identifying elements from molecular ion peak in mass spectrum: https://youtu.be/cTrXYxuX6qo
 
+### talkboard
 
+Mass Spectrometry - Fragmentation: https://www.youtube.com/watch?v=JLkFgc6UhoY
 
 ## Books
 
