@@ -23,7 +23,10 @@ Identifying elements from molecular ion peak in mass spectrum: https://youtu.be/
 
 ### talkboard
 
-Mass Spectrometry - Fragmentation: https://www.youtube.com/watch?v=JLkFgc6UhoY
+
+#### Playlist: Spectroscopy: https://youtube.com/playlist?list=PLPb_42dxitOK1ywJ4W3NdDIfVGp4GDkBI
+ 
+   - Mass Spectrometry - Fragmentation: https://www.youtube.com/watch?v=JLkFgc6UhoY
 
 ## Books
 
