@@ -25,6 +25,11 @@ Pavia, Lampman, Kris, and Vyvyan, Introduction to Spectroscopy, 5th Edition (ebo
 * [started to read on June 4, 2021]
 
 
+• Spectrometric identification of organic compounds. 8th ed. Robert M. Silverstein, Francis X. Webster, David Kiemle, and David L. Bryce. Wiley, 2014. NOTE: The 7th edition is also OK.
+
+• Structure determination of organic compounds : tables of spectral data. 4th ed.  E. Pretsch, P. Buhlmann, and M. Badertscher. Springer, 2009. NOTE: The 3rd edition is also OK.
+
+
 
 
 
