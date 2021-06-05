@@ -20,7 +20,10 @@ OpenChem: UCI Course Video Lectures on YouTube: https://github.com/xie186/mooc_l
 
 ## Books
 
-Pavia, Lampman, Kris, and Vyvyan, Introduction to Spectroscopy, 5th Edition (ebook in my email)
+Pavia, Lampman, Kris, and Vyvyan, Introduction to Spectroscopy, 5th Edition (ebook in my email) 
+
+* [started to read on June 4, 2021]
+
 
 
 
