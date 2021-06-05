@@ -15,4 +15,7 @@ Chemistry 203, Organic Spectroscopy: https://youtube.com/playlist?list=PLC86CC98
 Chemistry 203, Organic Spectroscopy (2020): https://youtube.com/playlist?list=PLqOZ6FD_RQ7nUiPCa47zSrMWArKAdwfcD
 
 
+OpenChem: UCI Course Video Lectures on YouTube: 
+
+
 
