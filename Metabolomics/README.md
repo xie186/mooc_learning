@@ -17,6 +17,11 @@ Chemistry 203, Organic Spectroscopy (2020): https://youtube.com/playlist?list=PL
 
 OpenChem: UCI Course Video Lectures on YouTube: https://github.com/xie186/mooc_learning/issues/2
 
+###  Delene Holm
+
+Identifying elements from molecular ion peak in mass spectrum: https://youtu.be/cTrXYxuX6qo
+
+
 
 ## Books
 
