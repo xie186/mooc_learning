@@ -22,7 +22,7 @@ OpenChem: UCI Course Video Lectures on YouTube: https://github.com/xie186/mooc_l
 
 Pavia, Lampman, Kris, and Vyvyan, Introduction to Spectroscopy, 5th Edition (ebook in my email) 
 
-* [started to read on June 4, 2021]
+* [started to read on June 4, 2021  page 3]
 
 
 • Spectrometric identification of organic compounds. 8th ed. Robert M. Silverstein, Francis X. Webster, David Kiemle, and David L. Bryce. Wiley, 2014. NOTE: The 7th edition is also OK.
