@@ -28,6 +28,13 @@ Identifying elements from molecular ion peak in mass spectrum: https://youtu.be/
  
    - Mass Spectrometry - Fragmentation: https://www.youtube.com/watch?v=JLkFgc6UhoY
 
+## Dr Jackson UGA Chemistry
+
+### Mass Spectrometry: Steps to Analyzing a Mass Spec for Molecular Formula
+
+https://www.youtube.com/watch?v=T2pNUjHmiks
+
+
 ## Books
 
 Pavia, Lampman, Kris, and Vyvyan, Introduction to Spectroscopy, 5th Edition (ebook in my email) 
