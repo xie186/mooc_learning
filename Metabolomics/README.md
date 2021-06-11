@@ -35,6 +35,13 @@ Identifying elements from molecular ion peak in mass spectrum: https://youtu.be/
 https://www.youtube.com/watch?v=T2pNUjHmiks
 
 
+## Sanjay Khetre
+
+### Nitrogen Rule in Mass Spectroscopy by Dr S M Khetre
+
+
+https://www.youtube.com/watch?v=_x3rnwY5Sr8
+
 ## Books
 
 Pavia, Lampman, Kris, and Vyvyan, Introduction to Spectroscopy, 5th Edition (ebook in my email) 
