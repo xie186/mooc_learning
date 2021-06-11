@@ -42,6 +42,15 @@ https://www.youtube.com/watch?v=T2pNUjHmiks
 
 https://www.youtube.com/watch?v=_x3rnwY5Sr8
 
+## LIPID MAPS
+
+### LIPID MAPS shorthand nomenclature and classification
+
+
+https://www.youtube.com/watch?v=HQ0GroRLNsc
+
+
+
 ## Books
 
 Pavia, Lampman, Kris, and Vyvyan, Introduction to Spectroscopy, 5th Edition (ebook in my email) 
