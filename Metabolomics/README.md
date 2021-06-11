@@ -44,7 +44,7 @@ https://www.youtube.com/watch?v=_x3rnwY5Sr8
 
 ## LIPID MAPS
 
-### LIPID MAPS shorthand nomenclature and classification
+### LIPID MAPS Spring School 2021
 
 
 https://www.youtube.com/watch?v=HQ0GroRLNsc
