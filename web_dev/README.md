@@ -21,7 +21,7 @@ Create A Simple Django Blog: https://www.youtube.com/playlist?list=PLCC34OHNcOtr
 https://www.youtube.com/playlist?list=PLOLrQ9Pn6caxY4Q1U9RjO1bulQp5NDYS_
 
 
-[R]Part 1 - Building models, views and testing: https://www.youtube.com/watch?v=UqSJCVePEWU&list=PLOLrQ9Pn6caxY4Q1U9RjO1bulQp5NDYS_ 
+-[x]Part 1 - Building models, views and testing: https://www.youtube.com/watch?v=UqSJCVePEWU&list=PLOLrQ9Pn6caxY4Q1U9RjO1bulQp5NDYS_ 
 
 
 
