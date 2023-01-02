@@ -7,7 +7,7 @@
 ```
 select * from Book
 select book_id, title from Book
-select book_id, title from Book WHERE book_id = "B1"
+select book_id, title from Book WHERE book_id = 'B1'
 ```
 
 
