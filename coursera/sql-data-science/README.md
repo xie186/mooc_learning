@@ -17,4 +17,12 @@ SELECT Title, Director, Writer FROM FilmLocations WHERE Director = "Jayendra";
 SELECT Title, ReleaseYear, Locations FROM FilmLocations WHERE ReleaseYear>=2001;
 ```
 
+### COUNT, DISTINCT, LIMIT
 
+```
+select COUNT(*) from tablename
+select DISTINCT COUTRY from MEDALS where MEDALTYPE ="Gold"
+slect * from tablename LIMIT 10
+```
+
+### Insert 
