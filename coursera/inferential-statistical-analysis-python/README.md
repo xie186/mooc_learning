@@ -44,9 +44,11 @@ Margin of Error (MoE) is only dependent on:
 
 Sample size determination 
 
+Summary: 
 
+* Estimated stardard error may be too small, or inaccurate based off sample so can employ conservative approch. 
 
-
+* Conservative approch -> determine sample size needed based on a conridence level and edsired margin of error. 
 
 ## Week 3
 
