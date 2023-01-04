@@ -4,8 +4,6 @@ https://www.coursera.org/learn/inferential-statistical-analysis-python/home/welc
 
 
 
-
-
 ## Week 2
 
 
@@ -83,11 +81,6 @@ Assumptions:
 2. Large enough sample sizes to assume that the distribtuion of our estimate is normal. That is, we need ``
 
 
-
-
-
-
-
 ### One mean - Estimating a Population Mean with Confidence
 
 Cartwheel study 
@@ -101,16 +94,3 @@ Parameter of interest: population mean cartwheel distance $\mu$
 ## Week 3
 
 
-```bash
-%%bash
-jupyter nbconvert --to markdown README.ipynb
-```
-
-    [NbConvertApp] Converting notebook README.ipynb to markdown
-    [NbConvertApp] Writing 0 bytes to README.md
-
-
-
-```python
-
-```
