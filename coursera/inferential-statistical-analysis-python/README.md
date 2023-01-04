@@ -80,6 +80,17 @@ Assumptions:
 
 2. Large enough sample sizes to assume that the distribtuion of our estimate is normal. That is, we need ``
 
+
+### One mean - Estimating a Population Mean with Confidence
+
+Cartwheel study 
+
+What is the average cartwheel distance (in inches) for adults? 
+
+Pupulation: All adults
+
+Parameter of interest: population mean cartwheel distance $\mu$
+
 ## Week 3
 
 
