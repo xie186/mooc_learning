@@ -50,6 +50,30 @@ Summary:
 
 * Conservative approch -> determine sample size needed based on a conridence level and edsired margin of error. 
 
+### Two propotions
+
+#### Estimating a Difference in Population Proportions with Confidence
+
+
+Parameter of interest - Difference in population proportions ($p1 - p2$). 
+
+
+Survey Results
+
+Confidence interval basics
+
+$ Best estimate \pm{Margin of Errors} $
+
+
+Interpretion of confidence interce. 
+
+"Range of reaonable values for our parameter"
+
+> With 95% confidence, the population propotion of parents with white children whi have taken swimming lessons is 11.23 to 24.77% higher than the population proportion of parents with black children who have taken swimming lessons. 
+
+
+
+
 ## Week 3
 
 
