@@ -72,7 +72,13 @@ Interpretion of confidence interce.
 > With 95% confidence, the population propotion of parents with white children whi have taken swimming lessons is 11.23 to 24.77% higher than the population proportion of parents with black children who have taken swimming lessons. 
 
 
+#### Interpretations & Assumptions for Two Population Proportion Intervals
 
+Assumptions:
+
+1.Two independent random samples
+
+2. Large enough sample sizes to assume that the distribtuion of our estimate is normal. That is, we need ``
 
 ## Week 3
 
